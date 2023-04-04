@@ -1,0 +1,40 @@
+.Explore button {
+background-color: white;
+color: green;
+border-radius: 20rem;
+border-color: green;
+width: 200px;
+height: 3rem;
+font-size: 17px;
+margin-left: 5rem;
+position: relative;
+left:  4rem;
+top: 3rem;
+
+}
+.Explore button:hover{
+    background-color: rgb(21, 150, 21);
+    transition: 0.3s ease-in-out;
+    
+}
+.Explore button a{
+    text-decoration: none;
+    color: green;
+}
+.Explore button a:hover{
+    color: white;
+}
+.Explore .all{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-left: 4rem;
+    position: relative;
+    top: 3rem;
+    
+}
+.Amata img{
+    width: 28rem;
+    position: relative;
+    left: 48rem;
+    bottom: 14rem;
+}
