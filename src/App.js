@@ -3,6 +3,9 @@ import Header from "./component/pages/header";
 import Home from "./component/pages/homepage";
 import Veterinaire from "./component/pages/veterinaire";
 import Farmer from "./component/pages/Farmer";
+import Amata from "./component/pages/Amata";
+import Mpas from "./component/pages/mpas";
+import Footer from "./component/pages/Footer";
 const App=()=>{
     return(
         <>
@@ -10,6 +13,9 @@ const App=()=>{
         <Home/>
         <Veterinaire/>
         <Farmer/>
+        <Amata/>
+        <Mpas/>
+        <Footer/>
         </>
     );   
 };
